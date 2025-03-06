@@ -1,17 +1,17 @@
-### Hi there, I'm Habeeb Jimoh! 👋
+### Hey, I'm Habeeb! 👋
+
+```
+root@Offensive-Sec:~# ./Daredevil || Cybersecurity Enthusiast || Breaking & Securing Apps || Path to H4ck1ng Mastery || Just That Guy Next Door
+```
 
 🔹 **Aspiring Large-Scale Tech Engineer | Cybersecurity Enthusiast**  
-🔹 **Passionate about AI, Self-Healing Systems & Scalable Solutions**  
-🔹 **Cybersecurity Undergraduate at LAUTECH**  
 
 ---
 
-### 🚀 About Me:
-- 🔭 I’m currently diving deep into **MERN Stack, Java & Python**.
-- 💡 Exploring **self-healing systems** and large-scale software engineering.
-- 🎯 My goal: To work on **impactful tech projects** and contribute to the future of technology.
-- 📚 Learning about **Cloud Computing, AI, and Distributed Systems**.
-- ⚡ Fun fact: I'm getting into **basketball** and tech entrepreneurship.
+### 🚀 System Diagnostics: Who Am I?
+- 🧑‍💻 Currently reverse-engineering **MERN Stack, Java & Python** to bend them to my will.
+- 🤖 Writing code that fixes itself—because debugging is for mere mortals.
+- 🚀 Objective: Architecting systems so robust, even Skynet would be jealous.
 
 ---
 
