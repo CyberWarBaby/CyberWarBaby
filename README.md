@@ -34,7 +34,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaBeebCyber&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HaBeebCyber&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=HaBeebCyber&theme=dark)
 
 ---
 
