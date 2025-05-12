@@ -9,7 +9,7 @@ root@Offensive-Sec:~# ./Daredevil || Cybersecurity Enthusiast || Breaking & Secu
 ---
 
 ### 🚀 System Diagnostics: Who Am I?
-- 🧑‍💻 Currently reverse-engineering **MERN Stack, Java & Python** to bend them to my will.
+- 🧑‍💻 Currently reverse-engineering **MERN Stack & Python** to bend them to my will.
 - 🤖 Writing code that fixes itself—because debugging is for mere mortals.
 - 🚀 Objective: Architecting systems so robust, even Skynet would be jealous.
 
