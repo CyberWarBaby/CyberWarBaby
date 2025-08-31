@@ -32,17 +32,7 @@ I'm **Habeeb (CyberWarBaby)** — A passionate **Cloud & DevOps Engineer** learn
 </div>
 
 
-## 📊 GitHub Analytics & Activity
 
-
-<div align="center">
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=CyberWarBaby&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberWarBaby&layout=compact&langs_count=8&theme=tokyonight"/>
-  
-
-</div>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CyberWarBaby&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -50,16 +40,6 @@ I'm **Habeeb (CyberWarBaby)** — A passionate **Cloud & DevOps Engineer** learn
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habeeblahi-jimoh/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CyberWarBaby)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:habeebjimoh29@gmail.com)
-</div>
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
-
 **💭 "Learning, building, and sharing - one commit at a time!"**
-
 
 </div>
