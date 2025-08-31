@@ -2,15 +2,12 @@
 
 
 
----
-
 ## 🌐 Who Am I?  
 I’m **Habeeb (CyberWarBaby)** — Cloud & DevOps engineer turning complex infrastructure into **automated, scalable, bulletproof systems**.  
 
 **Motto:**  
 > **“Perspective >>>>>>>>>>>>> Perception.”**  
 
----
 
 ## 🛠️ DevOps & Cloud Toolkit  
 
@@ -47,6 +44,18 @@ I’m **Habeeb (CyberWarBaby)** — Cloud & DevOps engineer turning complex infr
 
 ![CyberWarBaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberWarBaby&show_icons=true&theme=dark&count_private=true&line_height=25)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberWarBaby&layout=compact&theme=dark&hide=jupyter%20notebook)  
+
+<div align="center">
+
+![Commits](https://img.shields.io/badge/Commits-5,000+-brightgreen?style=for-the-badge) ➕
+![Repositories](https://img.shields.io/badge/Repos-45+-blue?style=for-the-badge) ➕
+![Issues Closed](https://img.shields.io/badge/Issues_Closed-230+-purple?style=for-the-badge)  
+
+![Stars](https://img.shields.io/badge/Stars-350+-yellow?style=for-the-badge) ➕
+![Followers](https://img.shields.io/badge/Followers-180+-orange?style=for-the-badge) ➕
+![Pull Requests](https://img.shields.io/badge/PRs-75+-red?style=for-the-badge)
+
+</div>
 
 
 ## ⚡ Projects & Labs  
