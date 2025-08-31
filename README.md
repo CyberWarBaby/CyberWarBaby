@@ -1,52 +1,71 @@
 ### Hey, I'm Habeeb! 👋
 
 
----
-
-## 🚀 About Me  
-I’m Habeeb — also known as **CyberWarBaby** — a Cloud & DevOps engineer passionate about building scalable, reliable, and automated systems. My mission is simple:  
-
-**Design once. Automate always. Scale forever.**  
 
 ---
 
-## 🛠️ Core Toolkit  
+## 🌐 Who Am I?  
+I’m **Habeeb (CyberWarBaby)** — Cloud & DevOps engineer turning complex infrastructure into **automated, scalable, bulletproof systems**.  
 
-- 🐧 **Linux** – Daily driver, scripting, system administration.  
-- ☁️ **AWS** – Cloud infrastructure, networking, IAM, storage & compute.  
-- ⚙️ **Terraform** – Infrastructure as Code, reproducible deployments.  
-- 🐳 **Docker & Kubernetes** – Containerization and orchestration.  
-- 🔄 **CI/CD Pipelines** – GitHub Actions, automation from commit to production.  
-- 🐹 **Go (Golang)** – Building lightweight services & tooling.  
-- 🔧 **Git** – Version control, branching strategies, workflow management.  
+**Motto:**  
+> **“Perspective >>>>>>>>>>>>> Perception.”**  
 
 ---
 
-## ⚡ Projects & Labs  
+## 🛠️ DevOps & Cloud Toolkit  
 
-- **AWS + Terraform** – Provisioning secure & scalable VPCs, EC2, S3, IAM via IaC.  
-- **Kubernetes Cluster Deployments** – Scaling microservices across cloud & on-prem.  
-- **CI/CD Automation** – End-to-end pipelines with Docker images, tests & deployments.  
-- **Go Microservices** – Writing and containerizing services, shipped via Kubernetes.  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=githubactions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-*(More projects and case studies coming as I refine my DevOps journey.)*  
+---
+
+## ⚡ Skill Proficiency  
+
+| Skill | Level |  
+|-------|-------|  
+| Linux | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ |  
+| AWS | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ |  
+| Docker | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ |  
+| Kubernetes | 🟩🟩🟩🟩⬜⬜⬜⬜⬜ |  
+| Terraform | 🟩🟩🟩🟩⬜⬜⬜⬜⬜ |  
+| Go | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ |  
+| Git & CI/CD | 🟩🟩🟩🟩🟩⬜⬜⬜⬜ |  
+| Python | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ |  
+| Bash | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ |  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![CyberWarBaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberWarBaby&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberWarBaby&layout=compact&theme=dark)  
+![CyberWarBaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberWarBaby&show_icons=true&theme=dark&count_private=true&line_height=25)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberWarBaby&layout=compact&theme=dark&hide=jupyter%20notebook)  
 
----
+
+## ⚡ Projects & Labs  
+
+- **AWS + Terraform Lab** – Secure, scalable VPCs, EC2, S3, IAM via IaC  
+- **Kubernetes Cluster Playground** – Auto-scaling & self-healing microservices  
+- **CI/CD Pipelines** – Automated build → test → deploy for multiple services  
+- **Go Microservices** – Lightweight, containerized services with real-time metrics  
+
+
+
+## 🔥 Quick Stats  
+
+
 
 ## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habeeblahi-jimoh/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CyberWarBaby)  
 
----
 
-## 💡 Quote  
 
-> **“Perspective >>>>>>>>>>>>> Perception.”**  
