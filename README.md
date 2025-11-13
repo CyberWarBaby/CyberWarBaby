@@ -1,14 +1,11 @@
-# Hey, I'm Habeeb! 👋
+# Hey, I'm Habeeb!
 
 ## Who Am I?
-
 
 I'm **Habeeb (CyberWarBaby)** — A passionate **Cloud & DevOps Engineer** learning to transform infrastructure into **automated, scalable systems**. Currently exploring the endless possibilities of open source! 🌩️
 
 **Life Philosophy:**
 >  **"Perspective >>>>>>>>>>>>> Perception."** 
-
-
 
 
 ## **🛠️ Skills Arsenal**
