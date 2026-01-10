@@ -7,11 +7,9 @@ I'm **Habeeb (CyberWarBaby)** — A passionate **Cloud & DevOps Engineer** learn
 **Life Philosophy:**
 >  **"Perspective >>>>>>>>>>>>> Perception."** 
 
-
 ## **🛠️ Skills Arsenal**
 
 <div>
-
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
