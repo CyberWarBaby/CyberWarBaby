@@ -1,6 +1,6 @@
-# The best infrastructure is the kind nobody notices. That's what I build.
+## The best infrastructure is the kind nobody notices. That's what I build.
 
-**Habeeb Jimoh** · Cloud & DevOps Engineer · Nigeria
+**Habeeb Jimoh** · Cloud & DevOps Engineer · Anywhere there's a terminal · UTC+1
 
 I build infrastructure that scales before it has to. Automated pipelines, containerized workloads, systems designed so that on-call is boring — which is the entire point. Linux is home ground. Everything else builds on top of it.
 
